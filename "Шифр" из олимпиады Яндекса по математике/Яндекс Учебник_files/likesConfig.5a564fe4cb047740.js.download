@@ -1,0 +1,1 @@
+window._data.likesConfig = {"order":["heart","smile","think","sleep","angry"],"items":[{"slug":"smile","resource_id":262702},{"slug":"heart","resource_id":262700},{"slug":"sleep","resource_id":262701},{"slug":"think","resource_id":262703},{"slug":"angry","resource_id":262699}]}
